@@ -90,7 +90,7 @@ h2{
   border: 5px solid rgba(178, 255, 255,1);
   border-top: none;
   border-bottom: none;
-  opacity: 0.5;
+  opacity: 1;
 }
 
 .box:hover{
@@ -146,8 +146,13 @@ h2{
 
 }
 
-/*=========only tabs =========*/
+/*=============only tabs ================*/
 @media (min-width: 768px) and (max-width: 992px){
 
+}
+
+
+/*=========only for mobile========*/
+@media (max-width: 768px){
 
 }
